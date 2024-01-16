@@ -3,11 +3,8 @@
 
 ## Example.
 
-🧷  For plastic
-https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-🤏🏽  For Flat
-https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 ## Awesome languages I use
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)](https://skillicons.dev)
