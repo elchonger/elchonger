@@ -1,8 +1,10 @@
 # Hiya there 👋
 
+## Awesome languages I use
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)
 
 ## Get in touch
-
 
   <a target_blank href="mailto:luke.westhead@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -13,9 +15,7 @@
 
 
 
-## Awesome languages I use
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)
 
 
 
