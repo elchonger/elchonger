@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <a href="mailto:luke.westhead@gmail.com">
+
    ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  </a>
+
 </p>
 
 
