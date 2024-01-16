@@ -7,7 +7,7 @@
 
 <p align="center">
 
-   ![Google](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=google&logoColor=white)
+   ![Google](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=google&logoColor=white&href=mailto:luke.westhead@gmail.com)
 
 </p>
 
