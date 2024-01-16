@@ -3,13 +3,13 @@
 
 ## Get in touch
 
-
-
 <p align="center">
-
-   ![Google](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=google&logoColor=white&href=mailto:luke.westhead@gmail.com)
-
+  <a href="luke.westhead@gmail.com">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
+
+
 
 
 
