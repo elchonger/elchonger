@@ -3,11 +3,11 @@
 
 ## Example.
 
-![Google](https://img.shields.io/badge/googles-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<a href="mailto:luke.westhead@gmail.com [![Google](https://img.shields.io/badge/Email me-4285F4?style=for-the-badge&logo=google&logoColor=white)"></a>
 
 ## Awesome languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)](https://skillicons.dev)
 
 
 
