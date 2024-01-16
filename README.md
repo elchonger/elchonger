@@ -7,7 +7,7 @@
 
 ## Awesome languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress)
 
 
 
