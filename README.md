@@ -3,7 +3,13 @@
 
 ## Example.
 
-<a href="mailto:luke.westhead@gmail.com [![Google](https://img.shields.io/badge/Email me-4285F4?style=for-the-badge&logo=google&logoColor=white)"></a>
+<p align="center">
+  <a href="mailto:luke.westhead@gmail.com">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://img.shields.io/badge/Email me-4285F4?style=for-the-badge&logo=google&logoColor=white))" />
+  </a>
+</p>
+
+
 
 ## Awesome languages I use
 
