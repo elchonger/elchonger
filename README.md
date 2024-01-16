@@ -3,11 +3,11 @@
 
 ## Get in touch
 
-<p align="center">
+
   <a href="luke.westhead@gmail.com">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
+
 
 
 
