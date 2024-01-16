@@ -3,7 +3,7 @@
 
 ## Example.
 
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google](https://img.shields.io/badge/googles-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Awesome languages I use
 
